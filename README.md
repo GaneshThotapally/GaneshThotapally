@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Thotapally</h1>
 
 <h3 align="center">
-Final-Year Electronics & Communication Engineering Student | VLSI Enthusiast | RTL Design & Verification | AI & IoT Developer
+Graduate Engineer Traine | VLSI Enthusiast | RTL Design & Verification | AI & IoT Developer
 </h3>
 
 ---
